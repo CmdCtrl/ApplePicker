@@ -7,4 +7,4 @@ _scene_1 is a test for the newer GUIText implementation within Unity 5
 
 All protoype features included from Gibson textbook - no additional features as of now
 
-Additional webdeployed versionc an be played at:  http://cmdctrl.github.io/ApplePicker/
+Additional webdeployed version can be played at:  http://cmdctrl.github.io/ApplePicker/
